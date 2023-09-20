@@ -34,6 +34,11 @@
     color:white;
     width: 100px;
     height: 50px;
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 279px;
+    height: 50px;
 }
 
 .info{
