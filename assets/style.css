@@ -143,6 +143,7 @@
     box-sizing: border-box;
     margin: 0.5rem;
     display: flex;
+    box-shadow: 2px 10px 15px #000000;
 }
 
 .h2a {
