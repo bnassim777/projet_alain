@@ -187,9 +187,7 @@
     display: flex;
 }
 
-.enregistrement {
-    width: 172px;
-    height: 19px;
+.enregistrements {
     background-color: rgba(255, 255, 255, 0);
     box-sizing: border-box;
     font-family: "Roboto Bold", "Roboto", sans-serif;
@@ -218,15 +216,16 @@
 }
 
 .h2h {
-    width: 40px;
-    height: 19px;
+    width: 279px;
+    height: 50px;
     background-color: #ffffff;
     box-sizing: border-box;
     font-family: "Roboto Bold", "Roboto", sans-serif;
     font-weight: 500;
     color: #333333;
-    text-align: left;
+    margin-left: 11%;
     line-height: normal;
+    border: green 5px solid;
 }
 
 .h3h{
@@ -248,4 +247,8 @@
     font-weight: bold;
     text-align: center;
     margin-left:10% ;
+}
+
+.divv{
+    border:#000000 5px solid;
 }
