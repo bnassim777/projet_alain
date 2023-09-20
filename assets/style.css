@@ -5,12 +5,16 @@
 }
 
 .indexT1 {
+    width: 314px;
+    height: 320px;
     position: relative;
     font-size: medium;
     text-align: center;
     margin-top: 2.5rem;
     bottom: 20rem;
     color: white;
+    margin-top: 5%;
+    margin-left: 8%;
 }
 
 .h2i {
@@ -42,9 +46,9 @@
 }
 
 .info {
-    width: 414px;
-    height: 596px;
+    margin-top: 80%;
     border-radius: 20%;
+    border: #000000 ;
 }
 
 
